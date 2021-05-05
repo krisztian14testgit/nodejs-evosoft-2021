@@ -7,7 +7,7 @@ const htmlReponse = (response, file, statusCode = 200) => {
     "Content-Type": 'text/html'
   });
 
-  // create server with response.writecls
+  // create server with response.write() 
   createReadStream(filePath).pipe(response);
 };
 
