@@ -1,0 +1,8 @@
+::1 - - [05/May/2021:08:36:56 +0000] "GET /api/users/10 HTTP/1.1" 404 1003 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [05/May/2021:08:36:56 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/api/users/10" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [05/May/2021:08:36:59 +0000] "GET /api/users/1 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [05/May/2021:08:37:02 +0000] "GET /api/users/ HTTP/1.1" 200 285 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [05/May/2021:08:42:52 +0000] "GET /api/users/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [05/May/2021:08:42:55 +0000] "GET /api/users/1 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [05/May/2021:08:42:58 +0000] "GET /api/users/10 HTTP/1.1" 404 1003 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [05/May/2021:08:42:58 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/api/users/10" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"

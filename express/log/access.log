@@ -1,0 +1,2 @@
+::1 - - [05/May/2021:12:01:29 +0000] "POST /api/users HTTP/1.1" 200 16 "http://localhost:3000/api/users/60927d117f9b2515840936fb" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"
+::1 - - [05/May/2021:12:02:31 +0000] "POST /api/users HTTP/1.1" 200 372 "http://localhost:3000/api/users/60927d117f9b2515840936fb" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"

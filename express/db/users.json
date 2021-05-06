@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Hornyák Zsolt",
+        "email": "hzs@gmail.com",
+        "address": "Bp"
+    },
+    {
+        "id": 2,
+        "name": "Lovas István",
+        "email": "lo@gmail.com",
+        "address": "Bp"
+    },
+    {
+        "id": 3,
+        "name": "Fekete Tamás",
+        "email": "ft@gmail.com",
+        "address": "Bp"
+    },
+    {
+        "id": 4,
+        "name": "Bacsó Gergely",
+        "email": "bcs@gmail.com",
+        "address": "Bp"
+    }
+]
